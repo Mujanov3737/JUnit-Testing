@@ -1,7 +1,7 @@
 # JUnit Testing
-This repository contains a few simple classes that all contain a corresponding testing component that mostly validates user input. These unit tests show off the importance that automated test cases can have in terms of expediting development, catching issues early, and submitting sounder code. Manual testing may be necessary for testing more subjective facets of a product, such as how the UI feels when it is being navigated, but components where data can be checked objectively are prime candidates for unit testing.
+This repository contains a few simple Java files/classes that all contain a corresponding testing component that mostly serves to validate user input. These unit tests were explored to discover the importance that automated test cases can have in terms of expediting development, catching issues early, and submitting sounder code. Manual testing may be necessary for testing more subjective facets of a product, such as how the UI feels when it is being navigated, but components where data can be checked objectively are prime candidates for unit testing.
 
-Also included is a summary and reflection report that goes into more detail regarding the process of building these tests and thoughts on software testing in general.
+Also included is a summary and reflection report that goes into more detail regarding the process of building these tests and thoughts on software testing in general. Note that the Eclipse IDE and JUnit testing framework were the principle technologies used in development.
 
 # General Thoughts on Development and Importance of Testing
 ## Ensuring code, programs, or software is functional and secure?
